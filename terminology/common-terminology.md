@@ -85,10 +85,6 @@ Firmware Definitive Evidence Generation – Loading of a TEE is typically not st
 
 Attestation – Attestation messages must also be cryptographically provable to be no older than some known event, so they can be believed to still reflect measured state over some time period or set of operations.
 
-Certificate Hygiene  – External signatures when evaluated must ensure the full certificate chain validates cleanly within a described timeframe.
-
-CC Resource Management  – Interfaces so that management center administrators can create, halt, delete and migrate TEE instances.
-
 ## Conclusion/Summary
 
 Confidential Computing is a paradigm that is enabled by a fundamental architectural addition to modern processors that has the potential to be as transformational to the way computers operate as the introduction of virtualization when it was added to commercially available chips.  By creating the ability to protect data in use, it provides an important component to how trust, privacy, and security can be managed in modern systems.  To increase the adoption of this technology, it is important to have a common vocabulary to describe how the technology is being used and what benefits it can contribute.
